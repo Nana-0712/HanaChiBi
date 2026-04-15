@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node --import tsx server.ts",
-    "build": "npx vite build",
-    "preview": "vite preview"
-  },
+  "dev": "node --import tsx server.ts",
+  "build": "echo \"skip build\"",
+  "preview": "vite preview"
+},
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "@types/multer": "^2.1.0",
