@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "123",
+    "coins": 1000
+  },
+  {
+    "id": 1775766750786,
+    "name": "Đinh Nga",
+    "email": "lequan1995.ub@gmail.com",
+    "password": "Dinhnga123$",
+    "coins": 21
+  }
+]

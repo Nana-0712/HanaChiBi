@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1775765695538,
+    "customer": {
+      "name": "Đinh Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "cod",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 3,
+          "name": "Hộp bút silicon dễ thương",
+          "price": 55000,
+          "originalPrice": 65000,
+          "image": "https://picsum.photos/seed/p3/600/600",
+          "category": "pen",
+          "subCategory": "Hộp bút",
+          "brand": "Flexoffice",
+          "isFlashSale": true,
+          "soldCount": 67,
+          "totalStock": 100,
+          "rating": 4.9,
+          "reviews": 210,
+          "description": "Chất liệu silicon cao cấp, mềm mịn."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 75000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 5,
+    "userId": null,
+    "status": "Đã hủy",
+    "createdAt": "2026-04-09T20:14:55.538Z",
+    "cancelledBy": "Quản trị viên",
+    "cancelReason": "Hết hàng",
+    "outOfStockItems": [
+      3
+    ]
+  },
+  {
+    "id": 1775767094394,
+    "customer": {
+      "name": "Đinh Thị Nguyệt Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "cod",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 3,
+          "name": "Hộp bút silicon dễ thương",
+          "price": 55000,
+          "originalPrice": 65000,
+          "image": "https://picsum.photos/seed/p3/600/600",
+          "category": "pen",
+          "subCategory": "Hộp bút",
+          "brand": "Flexoffice",
+          "isFlashSale": true,
+          "soldCount": 67,
+          "totalStock": 100,
+          "rating": 4.9,
+          "reviews": 210,
+          "description": "Chất liệu silicon cao cấp, mềm mịn."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 75000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 5,
+    "userId": 1775766750786,
+    "status": "Đã hủy",
+    "createdAt": "2026-04-09T20:38:14.394Z",
+    "cancelledBy": "Khách hàng",
+    "cancelReason": "Muốn thay đổi địa chỉ nhận hàng",
+    "outOfStockItems": []
+  },
+  {
+    "id": 1775768547786,
+    "customer": {
+      "name": "Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "cod",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 2,
+          "name": "Sổ tay lò xo A5 - Pinky",
+          "price": 32000,
+          "originalPrice": 45000,
+          "image": "https://picsum.photos/seed/p2/600/600",
+          "category": "notebook",
+          "subCategory": "Sổ lò xo",
+          "brand": "HanaChiBi",
+          "isNew": true,
+          "isFlashSale": true,
+          "soldCount": 28,
+          "totalStock": 100,
+          "rating": 4.8,
+          "reviews": 89,
+          "description": "Sổ tay bìa cứng cán màng mờ."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 52000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 3,
+    "userId": 1775766750786,
+    "status": "Chờ xác nhận",
+    "createdAt": "2026-04-09T21:02:27.786Z"
+  },
+  {
+    "id": 1775768606282,
+    "customer": {
+      "name": "Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí,Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "bank",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 2,
+          "name": "Sổ tay lò xo A5 - Pinky",
+          "price": 32000,
+          "originalPrice": 45000,
+          "image": "https://picsum.photos/seed/p2/600/600",
+          "category": "notebook",
+          "subCategory": "Sổ lò xo",
+          "brand": "HanaChiBi",
+          "isNew": true,
+          "isFlashSale": true,
+          "soldCount": 28,
+          "totalStock": 100,
+          "rating": 4.8,
+          "reviews": 89,
+          "description": "Sổ tay bìa cứng cán màng mờ."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 52000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 3,
+    "userId": 1775766750786,
+    "status": "Chờ xác nhận",
+    "createdAt": "2026-04-09T21:03:26.282Z"
+  },
+  {
+    "id": 1775769754726,
+    "customer": {
+      "name": "Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A-Khu11 Quang Trung-Phường Uông Bí-Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "bank",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 3,
+          "name": "Hộp bút silicon dễ thương",
+          "price": 55000,
+          "originalPrice": 65000,
+          "image": "https://picsum.photos/seed/p3/600/600",
+          "category": "pen",
+          "subCategory": "Hộp bút",
+          "brand": "Flexoffice",
+          "isFlashSale": true,
+          "soldCount": 67,
+          "totalStock": 100,
+          "rating": 4.9,
+          "reviews": 210,
+          "description": "Chất liệu silicon cao cấp, mềm mịn."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 75000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 5,
+    "userId": 1775766750786,
+    "status": "Chờ lấy hàng",
+    "createdAt": "2026-04-09T21:22:34.726Z"
+  },
+  {
+    "id": 1775770126871,
+    "customer": {
+      "name": "Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "cod",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 3,
+          "name": "Hộp bút silicon dễ thương",
+          "price": 55000,
+          "originalPrice": 65000,
+          "image": "https://picsum.photos/seed/p3/600/600",
+          "category": "pen",
+          "subCategory": "Hộp bút",
+          "brand": "Flexoffice",
+          "isFlashSale": true,
+          "soldCount": 67,
+          "totalStock": 100,
+          "rating": 4.9,
+          "reviews": 210,
+          "description": "Chất liệu silicon cao cấp, mềm mịn."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 75000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 5,
+    "userId": 1775766750786,
+    "status": "Chờ xác nhận",
+    "createdAt": "2026-04-09T21:28:46.871Z"
+  },
+  {
+    "id": 1775770635462,
+    "customer": {
+      "name": "Đinh Nga",
+      "phone": "0396265421",
+      "address": "Tổ 39A, Khu 11 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+      "note": "",
+      "voucher": "",
+      "paymentMethod": "cod",
+      "shippingMethod": "standard",
+      "useCoins": false
+    },
+    "items": [
+      {
+        "product": {
+          "id": 3,
+          "name": "Hộp bút silicon dễ thương",
+          "price": 55000,
+          "originalPrice": 65000,
+          "image": "https://picsum.photos/seed/p3/600/600",
+          "category": "pen",
+          "subCategory": "Hộp bút",
+          "brand": "Flexoffice",
+          "isFlashSale": true,
+          "soldCount": 67,
+          "totalStock": 100,
+          "rating": 4.9,
+          "reviews": 210,
+          "description": "Chất liệu silicon cao cấp, mềm mịn."
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 75000,
+    "discount": 0,
+    "shipping": 20000,
+    "coinsUsed": 0,
+    "earnedCoins": 5,
+    "userId": 1775766750786,
+    "status": "Chờ xác nhận",
+    "createdAt": "2026-04-09T21:37:15.462Z"
+  }
+]

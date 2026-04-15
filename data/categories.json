@@ -1,0 +1,67 @@
+[
+  {
+    "id": "all",
+    "name": "Tất cả",
+    "icon": "Sparkles",
+    "color": "bg-pastel-yellow",
+    "subCategories": []
+  },
+  {
+    "id": "pen",
+    "name": "Bút Viết",
+    "icon": "PenLine",
+    "color": "bg-pastel-blue",
+    "image": "https://picsum.photos/seed/pen/200/200",
+    "banner": "/uploads/1775879342064-649412897.jpg",
+    "subCategories": [
+      "Bút bi",
+      "Bút nước",
+      "Bút chì",
+      "Bút xóa"
+    ]
+  },
+  {
+    "id": "notebook",
+    "name": "Sổ Tập",
+    "icon": "BookOpen",
+    "color": "bg-pastel-purple",
+    "image": "https://picsum.photos/seed/book/200/200",
+    "banner": "/uploads/1775925022985-865373592.jpg",
+    "subCategories": [
+      "cứngt"
+    ]
+  },
+  {
+    "id": "art",
+    "name": "Mỹ thuật",
+    "icon": "Palette",
+    "color": "bg-pastel-green",
+    "image": "https://picsum.photos/seed/art/200/200",
+    "banner": "https://picsum.photos/seed/art-banner/1200/400",
+    "subCategories": [
+      "Màu nước",
+      "Cọ vẽ"
+    ]
+  },
+  {
+    "id": "cat-1776138283089",
+    "name": "Bút viết",
+    "icon": "Sparkles",
+    "image": "",
+    "banner": "/uploads/1776138316207-573897158.jpg",
+    "subCategories": [
+      "bút bi",
+      "bút chì",
+      "bút xóa",
+      "bút highlight"
+    ]
+  },
+  {
+    "id": "cat-1776159036911",
+    "name": "Giấy in",
+    "icon": "Sparkles",
+    "image": "",
+    "banner": "",
+    "subCategories": []
+  }
+]
