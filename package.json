@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-  "dev": "node --import tsx server.ts",
-  "build": "echo \"skip build\"",
+  "dev": "vite",
+  "build": "chmod +x node_modules/.bin/vite && vite build",
   "preview": "vite preview"
 },
   "dependencies": {
